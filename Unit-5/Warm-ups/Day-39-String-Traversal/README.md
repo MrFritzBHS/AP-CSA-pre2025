@@ -51,3 +51,8 @@ Can you figure out how to pass **testCountAsMixedCase**?
 Make the method `countLetter` which takes a String as a parameter and checks the number of occurences in the `word` instance variable.
 
 For example, if the `word` is `"happy"`, then `countLetter("p")` should return `2`
+
+## TODO 7 - the toString method
+
+Write a `toString` method that returns a string of the form: `"The word is: <<word>>"`. For example, if the `word` instance variable is `"noodles"` the `toString` method would return `"The word is: noodles"`
+

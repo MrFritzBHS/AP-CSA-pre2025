@@ -25,4 +25,6 @@ public class WordAnalyzer {
         return 0;
     }
 
+    // TODO 7 - make toString method
+
 }

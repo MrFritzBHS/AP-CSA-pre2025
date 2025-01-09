@@ -45,7 +45,7 @@ This class describes the player's status in the game.
 - `name` (`String`)
 - `positon` (`Position`)
 
-### Constrctor Method
+### Constructor Method
 
 There is one constructor method which takes two parameters `theName` and `thePosition` to initizlize the `name` and `position` instance variables, respectively.
 

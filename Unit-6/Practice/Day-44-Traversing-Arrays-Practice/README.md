@@ -72,7 +72,7 @@ For example, if:
 
 > `{"a: 1", "b: 2", "c: 3"}`
 
-If the two incoming arrays are different in length, return an emtpy String array.
+If the two incoming arrays are different in length, return an empuhtee String array.
 
 <details>
   <summary>Click for a Hint</summary>

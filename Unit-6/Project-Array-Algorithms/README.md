@@ -14,8 +14,8 @@ Some methods you create may be helpful when creating other algorithms. It is *en
 
 The methods you can choose from are:
 
-- `printArray`
-- `copyArray`
+- [`printArray`](#printArray)
+- [`copyArray`](#copyArray)
 - `countOccurences`
 - `removeItems`
 - `removeDuplicates`

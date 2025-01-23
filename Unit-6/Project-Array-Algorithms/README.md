@@ -16,13 +16,13 @@ The methods you can choose from are:
 
 - [`printArray`](#printArray)
 - [`copyArray`](#copyArray)
-- `countOccurences`
-- `removeItems`
-- `removeDuplicates`
-- `splitString`
-- `doubleArray`
-- `cumulativeSum`
-- `shiftArray`
+- [`countOccurences`](#countOccurences)
+- [`removeItems`](#removeItems)
+- [`removeDuplicates`](#removeDuplicates)
+- [`splitString`](#splitString)
+- [`doubleArray`](#doubleArray)
+- [`cumulativeSum`](#cumulativeSum)
+- [`shiftArray`](#shiftArray)
 
 ## Requirements
 
@@ -40,6 +40,8 @@ Below is a description of each of the algorithms to choose from.
 Print each item in the array which is passed as a parameter. Use a `for-each` loop to print the items.
 
 **Overload this method** by creating one that prints each item of an `int[]` array and one that prints a `String[]` array. This will be helpful to you checking the other algorithms.
+
+[Back to top](#the-methods)
 
 ## `copyArray`
 

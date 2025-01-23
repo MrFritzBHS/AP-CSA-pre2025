@@ -41,7 +41,7 @@ Print each item in the array which is passed as a parameter. Use a `for-each` lo
 
 **Overload this method** by creating one that prints each item of an `int[]` array and one that prints a `String[]` array. This will be helpful to you checking the other algorithms.
 
-[Back to top](#the-methods)
+[Back to the methods](#the-methods)
 
 ## `copyArray`
 
@@ -49,11 +49,15 @@ This method takes an array as a parameter and returns a **copy** of that array. 
 
 **Overload this method** to work with both `String[]` arrays and `int[]` arrays.
 
+[Back to the methods](#the-methods)
+
 ## `countOccurences`
 
 Given an array and a target item, identify and **return** the number of times the target occurs within the array.
 
 **Overload this method** by creating one that counts each item of an `int[]` array and one that counts a `String[]` array.
+
+[Back to the methods](#the-methods)
 
 ## `removeItems` 
 
@@ -61,11 +65,15 @@ This method takes two parameters: a `String[]` array and a target `String` to re
 
 It **returns** a `String[]` array with the target removed.
 
+[Back to the methods](#the-methods)
+
 ## `removeDuplicates`
 
 This method takes a `String[]` array parameter, and it will then identify and remove all duplicate `String`s. 
 
 **return** the reduced `String[]` array.
+
+[Back to the methods](#the-methods)
 
 ## `splitString`
 
@@ -81,6 +89,8 @@ For example:
 |**delimeter**|`","`|
 |**returned array**|`{ "Hi", "how", "are", "you?" }`|
 
+[Back to the methods](#the-methods)
+
 ## `doubleArray`
 
 This method takes a `PinballMachine[]` array and **returns** a `PinballMachine[]` array which is twice as long. Each odd-indexed `PinballMachine` object is a **copy** of the previous even-indexed `PinballMachine` object.
@@ -92,7 +102,9 @@ For example:
 |Array passed as parameter|`{ PMObj1, PMObj2, PMObj3 }`|
 |Array returned|`{ PMObj1, PMObj1COPY PMObj2, PMObj2COPY PMObj3, PMObj3COPY }`|
 
-> You will need to take a look at the `PinballMachine` class to understand how to do this.
+> You will need to take a look at the [`PinballMachine`](https://github.com/MrFritzBHS/AP-CSA/edit/main/Unit-6/Project-Array-Algorithms/PinballMachine.java) class to understand how to do this.
+
+[Back to the methods](#the-methods)
 
 ## `cumulativeSum`
 
@@ -110,6 +122,8 @@ For example:
 |2|3|6|1 + 2 + 3 = 6|
 |3|4|10|1 + 2 + 3 + 4 = 10|
 
+[Back to the methods](#the-methods)
+
 ## `shiftArray`
 
 This method takes two parameters: an `int[]` array and an `int n`. It **returns** an `int[]` array in which all of the items have shifted to the right by `n` spaces. Items will "wrap around" to the beginning if they exceed the end of the array.
@@ -119,3 +133,5 @@ For example:
 - **param array** --> `{ 1, 2, 3, 4, 5 }`
 - **n** --> `2`
 - **returned array** --> `{ 4, 5, 1, 2, 3 }`
+
+[Back to the methods](#the-methods)

@@ -37,7 +37,15 @@ Below is a description of each of the algorithms to choose from.
 
 ## `printArray`
 
-Print each item in the array which is passed as a parameter. Use a `for-each` loop to print the items.
+Print each item in the array which is passed as a parameter. The output should be on one line. Use a `for-each` loop to print the items.
+
+### Example output
+```java
+int[] nums = {1, 2, 3, 4, 5};
+printArray(nums);
+```
+
+would print `{1, 2, 3, 4, 5}`
 
 **Overload this method** by creating one that prints each item of an `int[]` array and one that prints a `String[]` array. This will be helpful to you checking the other algorithms.
 

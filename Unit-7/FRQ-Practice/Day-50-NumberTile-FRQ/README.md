@@ -1,11 +1,46 @@
 # NumberTile Game  
   
-A game uses square tiles that have numbers on their sides. Each tile is labeled with a number on each of its four sides and may be rotated clockwise.  
+A game uses square tiles that have numbers on their sides. Each tile is labeled with a number on each of its four sides and may be rotated clockwise, as illustrated below.
+
+![](assets/tile1.png)
+
+The tiles are represented by the `NumberTile` class, as given below:
+
+* **NumberTile Class:**
+```java
+public class NumberTile {
+
+    /**
+     * Rotates the tile 90 degrees clockwise
+     */
+    public void rotate() {
+        /* implementation not shown */
+    }
+
+    /**
+     * @return value at left edge of tile
+     */
+    public int getLeft() {
+        /* implementation not shown */
+    }
+
+    /**
+     * @return value at right edge of tile
+     */
+    public int getRight() {
+        /* implementation not shown */
+    }
+
+    // There may be instance variables, constructors, and methods that are not shown.
+}
+```
   
 ## Game Mechanics  
   
 Tiles are placed on a game board so that the adjoining sides of adjacent tiles have the same number. The following figure illustrates an arrangement of tiles and shows a new tile that is to be placed on the game board.  
-  
+
+![](assets/tile2.png)
+
 - In its original orientation, the new tile can be inserted between the tiles at positions 2 and 3 or between the tiles at positions 3 and 4.  
 - If the new tile is rotated once, it can be inserted before the tile at position 0 or after the tile at position 4.  
 - Assume that the new tile, in its original orientation, is inserted between the tiles at positions 2 and 3. As a result, the tiles at positions 3 and 4 are moved one location to the right, and the new tile is inserted at position 3.  

@@ -16,4 +16,8 @@ class TileGame {
         /* part b */
         return false;
     }
+
+    public ArrayList<NumberTile> getBoard() {
+        return board;
+    }
 }

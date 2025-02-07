@@ -41,4 +41,8 @@ class NumberTile {
     public int getRight() {
         return sides[1];
     }
+
+    public String toString() {
+        return "T:" + sides[0] + " R:" + sides[1] + " B:" + sides[2] + " L:" + sides[3];
+    }
 }T

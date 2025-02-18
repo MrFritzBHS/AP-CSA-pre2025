@@ -23,8 +23,8 @@ An ArrayList of `Item` objects has been created and some items have already been
 1. Create a `Scanner` object
 2. Using the `Scanner` obj, ask user to input a name of an item
 3. Search the ArrayList for an `Item` with an `itemName` that matches the user's input. (Look at the `Item` class to see how to use it)
-    - if in stock --> print `"UPC <upc>: <itemName> - <num> in stock"`
-    - if not in stock --> print `"<itemName>, not in stock"`
+    - if in stock --> print `"UPC <upc>: <itemName> - <num> in stock"` (Ex: `"UPC 33419406: Apples - 5 in stock"`
+    - if not in stock --> print `"<itemName> not in stock"` (Ex: `"Chips not in stock"`)
   
 ### Test your method
 

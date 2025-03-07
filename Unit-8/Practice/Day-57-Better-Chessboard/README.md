@@ -12,7 +12,7 @@ Look for each `TODO` task in the code, and complete each as described.
 
 The board should look like this:
 
-![](https://codehs.com/uploads/6b4d3c82ecbc2d55850c0007e927960a)
+![](https://github.com/MrFritzBHS/AP-CSA/blob/main/Unit-8/Practice/Day-57-Better-Chessboard/assets/chessBoard.png?raw=true)
 
 If you need to learn how to set up the board, see [here](https://www.regencychess.co.uk/how_to_set_up_a_chessboard.html)
 

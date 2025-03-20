@@ -8,7 +8,7 @@ Spend a few moments looking over the `Pokemon` class and the `Pikachu` class. Wh
 
 ## Tasks
 
-Complete the following tasks, and performa any necessary troubleshooting:
+Complete the following tasks, and perform any necessary troubleshooting:
 
 ### Task 1
 

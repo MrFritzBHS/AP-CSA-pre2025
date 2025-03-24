@@ -1,13 +1,13 @@
-public class Student {
+public class student {
 
     private int grade;
     private double gpa;
 
-    public Student (String name, String birthday, int grade, double gpa) 
+    public Student(String name, String birthday, int grade, double gpa) 
     {
         super(birthday, name);
-        this.grade = grade;
-        this.gpa = gpa; 
+        grade = this.grade;
+        gpa = this.gpa; 
     }
 
     public int getGrade()

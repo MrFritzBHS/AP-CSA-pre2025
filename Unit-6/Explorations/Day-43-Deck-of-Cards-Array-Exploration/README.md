@@ -36,10 +36,10 @@ The 6 of Diamonds is at index *41* in the deck
 
 ## Array Challenges
 
-After completing the card deck challenges, complete the challenges below inside of the `arrayChallenges` method:
+After completing the card deck challenges, complete the challenges below inside of the `ArrayChallenges` class, check your code with the autograder:
 
-1. make an array of 500 random ints from 1-5000
-3. calculate and print the average of that array
-5. find and print the min of the array as well as its index
-7. find and print the max of the array as well as its index
-11. Make a String array of 10 words (you will have to initialize the values). Using a loop to traverse the array, find and print the longest word in the array --> to find length of string --> str.length()
+1. return an array of 500 random ints from 1-5000
+3. return the average of and int array
+5. return the minimum of an array
+7. return the **index** of the maximum value in an int array
+11. return the longest String in an array of Strings (to find length of string --> str.length() )

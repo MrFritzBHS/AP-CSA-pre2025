@@ -56,9 +56,4 @@ class Main {
     // ~~~~~~~~~~~~~~~~~~~~~~~
     // ~~   TASK 5 BELOW   ~~~
     // ~~~~~~~~~~~~~~~~~~~~~~~
-
-    public static void arrayChallenges() {
-        // after completing the Card challenges, begin here
-
-    }
 }

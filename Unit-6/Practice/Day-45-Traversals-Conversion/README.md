@@ -28,4 +28,4 @@ Mikka Leads is in grade 9
 Jay Khalil is in grade 10
 ```
 
-You may need to take a look at the [`Student`](https://github.com/MrFritzBHS/AP-CSA/edit/main/Unit-6/Practice/Day-45-Traversals-Conversion/Student.java) class file to help you with this one.
+You may need to take a look at the [`Student`](https://github.com/MrFritzBHS/AP-CSA-pre2025/edit/main/Unit-6/Practice/Day-45-Traversals-Conversion/Student.java) class file to help you with this one.

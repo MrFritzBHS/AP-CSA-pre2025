@@ -7,6 +7,10 @@ class TileGame {
         board = new ArrayList<NumberTile>();
     }
 
+    public void addTile(NumberTile tile) {
+        board.add(tile);
+    }
+
     private int getIndexForFit(NumberTile tile) {
         /* part a */
         return 0;

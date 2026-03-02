@@ -9,7 +9,7 @@ Create a static class to check if a given square is a magic square by implementi
 Implement the following methods to complete the "magic square checker":  
   
 1. **`getMagicNumber(int[][] square)`**:  
-   - **Purpose**: Determine the number each row/col/diagnoal should sum to
+   - **Purpose**: Determine the number each row/col/diagnoal should sum to. (Hint: if n is the number of rows, find the sum of all numbers 1 - n^2 and divide by n)
    - **Returns**: the `int` for the desired sum of each row/col/diagonal
      
 2. **`checkRow(int[][] square, int rowIndex)`**:  
